@@ -1,0 +1,34 @@
+{
+  "formatVersion": "2",
+  "header": {
+    "description": "MM 60 Report",
+    "originalLanguage": "en",
+    "abapLanguageVersion": "cloudDevelopment"
+  },
+  "generalInformation": {
+    "appType": "ui5",
+    "catalogId": "SAP_TC_UI5_REPO_UIAD",
+    "targetMappingTitle": "MM 60 Report"
+  },
+  "ui5AppDetails": {
+    "appId": "zmm60report"
+  },
+  "navigation": {
+    "targetMappingId": "UI5R_22A19ABB978686532992D89C849EFF4231843DBD_TM",
+    "semanticObject": "ZMM60R",
+    "action": "Display",
+    "desktop": true,
+    "tablet": true,
+    "phone": true
+  },
+  "tiles": [
+    {
+      "id": "UI5R_22A19ABB978686532992D89C849EFF4231843DBD_AL",
+      "tileType": "static",
+      "isDefault": true,
+      "standard": {
+        "title": "MM 60 Report"
+      }
+    }
+  ]
+}

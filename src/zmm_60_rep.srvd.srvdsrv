@@ -1,0 +1,4 @@
+@EndUserText.label: 'Service Defination for MM60 Report'
+define service ZMM_60_REP {
+  expose ZPRODUCT_2;
+}
